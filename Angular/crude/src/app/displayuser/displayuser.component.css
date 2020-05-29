@@ -1,0 +1,28 @@
+ .top-div {
+    margin: 20px;
+    float: right;
+  }
+  
+  /* table {
+    width: 100%;
+  } */
+    
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+    
+  td, th {
+    width: 25%;
+  }
+  .add-button{
+    float: right;
+  }
+
+  .users-content {
+    width: 90%;
+    margin: auto;
+  }
+  .add-button {
+    margin: 20px;
+  }
