@@ -51,7 +51,7 @@ $ python migration.py db init
 ```
 12. To issue your first migration you can run the following command:
 ```
-$ python migration.py db migrat
+$ python migration.py db migrate
 ```
 13. The next step is to apply the migration to the database. For this you use the upgrade command:
 ```
