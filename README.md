@@ -40,7 +40,7 @@ $ ng serve
 $ python app.py
 ```
 8. Open _init_.py of python directory and change the configuration according to your database. here i am used phpMyAdmin
-9. Open phpMyAdmin and create database crude
+9. create database crude
 ```
 $ create database crude
 ```
